@@ -30,4 +30,11 @@ fun canAddFish(gallons: Double, lengthOfFishInTank: List<Int>, lengthOfNewFish: 
 
     return canAdd
 }
+//better way to do it
+/*
+fun canAddFish(tankSize: Double, currentFish: List<Int>, fishSize: Int = 2, hasDecorations: Boolean = true): Boolean {
+return (tankSize * if (hasDecorations) 0.8 else 1.0) >= (currentFish.sum() + fishSize)
+}
+ */
+//.sum() adds all elements in a list
 
