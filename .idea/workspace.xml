@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="906b00ef-219d-42d9-aa6a-e8077955a6f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/fortuneCookie.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hello Kotlin/HelloWorldKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello Kotlin/HelloWorldKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Hello Kotlin/META-INF/Hello Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello Kotlin/META-INF/Hello Kotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AMS.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AMS.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.AMSKt">
+  <component name="RunManager" selected="Kotlin.FortuneCookieKt">
     <configuration name="AMSKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Hello Kotlin" />
       <option name="VM_PARAMETERS" value="" />
@@ -60,6 +59,19 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="AMSKt" />
       <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FortuneCookieKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Hello Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FortuneCookieKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -80,9 +92,11 @@
     <list>
       <item itemvalue="Kotlin.AMSKt" />
       <item itemvalue="Kotlin.HelloWorldKt" />
+      <item itemvalue="Kotlin.FortuneCookieKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FortuneCookieKt" />
         <item itemvalue="Kotlin.AMSKt" />
         <item itemvalue="Kotlin.HelloWorldKt" />
       </list>
@@ -106,7 +120,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
