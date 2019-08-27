@@ -1,5 +1,5 @@
 fun main(){
-    print("Your fortune is: ${getFortuneCookie()}")
+    print("Your first fortune was: ${getFortuneCookie()}")
 }
 
 fun getFortuneCookie(): String {
