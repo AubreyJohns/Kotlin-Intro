@@ -11,7 +11,9 @@ fun getFortuneCookie(): String {
         "Take it easy and enjoy life!",
         "Treasure your friends because they are your greatest fortune.")
     print("Enter your birthday: (day only e.g 9)    ")
+
     val  birthday = (readLine().toString())?.toIntOrNull() ?: 1
+
     if (fortunes[birthday%7] != "Take it easy and enjoy life!"){
         for(fortune in fortunes){
             print("Try your luck till you get: Take it easy and enjoy life!\n")
@@ -23,5 +25,6 @@ fun getFortuneCookie(): String {
             }
             }
         }
+
     return fortunes[birthday % 7]
 }
