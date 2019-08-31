@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="906b00ef-219d-42d9-aa6a-e8077955a6f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practiseClasses/Book.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Spices/Spice.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Hello Kotlin/META-INF/Hello Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello Kotlin/META-INF/Hello Kotlin.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Hello Kotlin/practiseClasses/Spice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello Kotlin/practiseClasses/Spice.class" afterDir="false" />
@@ -51,20 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.practiseClasses.BookKt">
-    <configuration name="ListFilterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Hello Kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ListFilterKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Spices.SpiceKt">
     <configuration name="RandomDifferencesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Hello Kotlin" />
       <option name="VM_PARAMETERS" />
@@ -73,6 +60,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="RandomDifferencesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spices.SpiceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Hello Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Spices.SpiceKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,19 +118,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.ListFilterKt" />
       <item itemvalue="Kotlin.RandomDifferencesKt" />
       <item itemvalue="Kotlin.practiseClasses.SpiceKt" />
       <item itemvalue="Kotlin.practiseClasses.SimpleSpiceObjectKt" />
       <item itemvalue="Kotlin.practiseClasses.BookKt" />
+      <item itemvalue="Kotlin.Spices.SpiceKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Spices.SpiceKt" />
         <item itemvalue="Kotlin.practiseClasses.BookKt" />
         <item itemvalue="Kotlin.practiseClasses.SpiceKt" />
         <item itemvalue="Kotlin.practiseClasses.SimpleSpiceObjectKt" />
         <item itemvalue="Kotlin.RandomDifferencesKt" />
-        <item itemvalue="Kotlin.ListFilterKt" />
       </list>
     </recent_temporary>
   </component>
