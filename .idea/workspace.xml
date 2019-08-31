@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="906b00ef-219d-42d9-aa6a-e8077955a6f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiseClasses/SimpleSpiceObject.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiseClasses/Book.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Hello Kotlin/META-INF/Hello Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello Kotlin/META-INF/Hello Kotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello Kotlin/practiseClasses/Spice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello Kotlin/practiseClasses/Spice.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Hello Kotlin/practiseClasses/SpiceKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello Kotlin/practiseClasses/SpiceKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practiseClasses/spice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiseClasses/Spice.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,20 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.practiseClasses.SpiceKt">
-    <configuration name="FortuneCookieWithWhenStmtKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Hello Kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FortuneCookieWithWhenStmtKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.practiseClasses.BookKt">
     <configuration name="ListFilterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Hello Kotlin" />
       <option name="VM_PARAMETERS" />
@@ -87,6 +73,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="RandomDifferencesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practiseClasses.BookKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Hello Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="practiseClasses.BookKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,19 +118,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.FortuneCookieWithWhenStmtKt" />
       <item itemvalue="Kotlin.ListFilterKt" />
       <item itemvalue="Kotlin.RandomDifferencesKt" />
       <item itemvalue="Kotlin.practiseClasses.SpiceKt" />
       <item itemvalue="Kotlin.practiseClasses.SimpleSpiceObjectKt" />
+      <item itemvalue="Kotlin.practiseClasses.BookKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.practiseClasses.BookKt" />
         <item itemvalue="Kotlin.practiseClasses.SpiceKt" />
         <item itemvalue="Kotlin.practiseClasses.SimpleSpiceObjectKt" />
         <item itemvalue="Kotlin.RandomDifferencesKt" />
         <item itemvalue="Kotlin.ListFilterKt" />
-        <item itemvalue="Kotlin.FortuneCookieWithWhenStmtKt" />
       </list>
     </recent_temporary>
   </component>
