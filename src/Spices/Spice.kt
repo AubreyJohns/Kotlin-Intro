@@ -1,7 +1,7 @@
 package Spices
 
 
-abstract class Spice(var name: String , var spiciness: String = "mild", color: SpiceColor): SpiceColor by color{
+sealed class Spice(var name: String , var spiciness: String = "mild", color: SpiceColor): SpiceColor by color{
     var heat: Int
         get() = if(spiciness == "mild") 5 else 10
         set(value) {}
@@ -31,11 +31,15 @@ interface Grinder{
 }
 
 interface SpiceColor{
-    var color: String
+    var color: Color
 }
 
 object YellowSpiceColor: SpiceColor{
-    override var color = "yellow"
+    override var color = Color.YELLOW
+}
+
+enum class Color(var rgb: Int){
+    YELLOW(0xFFFF00)
 }
 
 fun main(){
