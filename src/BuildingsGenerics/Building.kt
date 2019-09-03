@@ -1,14 +1,11 @@
 package BuildingsGenerics
 
-open class BaseBuildingMaterial(var numberNeeded: Int = 1){
+open class BaseBuildingMaterial(var numberNeeded: Int = 1){}
 
-}
-class Wood: BaseBuildingMaterial( 4){
+class Wood: BaseBuildingMaterial( 4){}
 
-}
-class Brick: BaseBuildingMaterial( 8){
+class Brick: BaseBuildingMaterial( 8){}
 
-}
 class Building<out T: BaseBuildingMaterial>(val baseBuildingMaterial: T){
     var baseMaterialsNeeded: Int = 100
     var actualMaterialsNeeded: Int = baseMaterialsNeeded*baseBuildingMaterial.numberNeeded
