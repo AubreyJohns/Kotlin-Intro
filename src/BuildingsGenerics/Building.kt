@@ -9,7 +9,7 @@ class Wood: BaseBuildingMaterial( 4){
 class Brick: BaseBuildingMaterial( 8){
 
 }
-class Building<T: BaseBuildingMaterial>(var baseBuildingMaterial: T){
+class Building<out T: BaseBuildingMaterial>(val baseBuildingMaterial: T){
     var baseMaterialsNeeded: Int = 100
     var actualMaterialsNeeded: Int = baseMaterialsNeeded*baseBuildingMaterial.numberNeeded
     fun build(){
@@ -18,6 +18,5 @@ class Building<T: BaseBuildingMaterial>(var baseBuildingMaterial: T){
 }
 
 fun main(){
-    var building = Building(Wood())
-    building.build()
+    Building(Wood()).build()
 }
