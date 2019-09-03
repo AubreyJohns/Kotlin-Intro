@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="906b00ef-219d-42d9-aa6a-e8077955a6f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BuildingsGenerics/Building.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hello Kotlin/BeyondBasics/Book$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello Kotlin/BeyondBasics/Book$Companion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hello Kotlin/BeyondBasics/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello Kotlin/BeyondBasics/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hello Kotlin/BeyondBasics/BookPairsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello Kotlin/BeyondBasics/BookPairsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hello Kotlin/BeyondBasics/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello Kotlin/BeyondBasics/Constants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BeyondBasics/BookPairs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/BeyondBasics/BookPairs.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello Kotlin/META-INF/Hello Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello Kotlin/META-INF/Hello Kotlin.kotlin_module" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.BeyondBasics.BookPairsKt">
+  <component name="RunManager" selected="Kotlin.BuildingsGenerics.BuildingKt">
     <configuration name="BeyondBasics.BookPairsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Hello Kotlin" />
       <option name="VM_PARAMETERS" />
@@ -74,6 +71,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="BeyondBasics.BookTitles_Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuildingsGenerics.BuildingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Hello Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="BuildingsGenerics.BuildingKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,33 +115,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practiseClasses.SpiceContainerKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Hello Kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="practiseClasses.SpiceContainerKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Kotlin.Spices.SpiceKt" />
-      <item itemvalue="Kotlin.practiseClasses.SpiceContainerKt" />
       <item itemvalue="Kotlin.Calculator.SimpleCalculatorKt" />
       <item itemvalue="Kotlin.BeyondBasics.BookPairsKt" />
       <item itemvalue="Kotlin.BeyondBasics.BookTitles_Kt" />
+      <item itemvalue="Kotlin.BuildingsGenerics.BuildingKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BuildingsGenerics.BuildingKt" />
         <item itemvalue="Kotlin.BeyondBasics.BookPairsKt" />
         <item itemvalue="Kotlin.BeyondBasics.BookTitles_Kt" />
         <item itemvalue="Kotlin.Calculator.SimpleCalculatorKt" />
         <item itemvalue="Kotlin.Spices.SpiceKt" />
-        <item itemvalue="Kotlin.practiseClasses.SpiceContainerKt" />
       </list>
     </recent_temporary>
   </component>
