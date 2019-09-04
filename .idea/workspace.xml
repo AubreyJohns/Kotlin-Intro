@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="906b00ef-219d-42d9-aa6a-e8077955a6f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambdasAndHOFgame/game.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hello Kotlin/META-INF/Hello Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello Kotlin/META-INF/Hello Kotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello Kotlin/lambdasAndHOFgame/Game$end$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello Kotlin/lambdasAndHOFgame/Game$end$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello Kotlin/lambdasAndHOFgame/GameKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello Kotlin/lambdasAndHOFgame/GameKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdasAndHOFgame/game.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdasAndHOFgame/game.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
