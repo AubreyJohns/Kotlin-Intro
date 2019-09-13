@@ -1,4 +1,4 @@
-package Calculator
+package calculator
 
 fun main(){
     println("Try out my simple calculator: ")

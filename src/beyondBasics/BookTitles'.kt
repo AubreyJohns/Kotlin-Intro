@@ -1,4 +1,4 @@
-package BeyondBasics
+package beyondBasics
 
 fun main(){
     val allBooks = setOf("Macbeth", "Romeo and Juliet", "Hamlet", "A Midsummer Night's Dream")

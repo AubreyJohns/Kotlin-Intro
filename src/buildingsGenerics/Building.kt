@@ -1,4 +1,4 @@
-package BuildingsGenerics
+package buildingsGenerics
 
 open class BaseBuildingMaterial(var numberNeeded: Int = 1){}
 

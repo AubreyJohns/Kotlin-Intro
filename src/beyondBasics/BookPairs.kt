@@ -1,4 +1,4 @@
-package BeyondBasics
+package beyondBasics
 
 const val bookLimit= 5
 
